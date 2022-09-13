@@ -29,3 +29,4 @@ namespace IERC1144 {
 
     func isApprovedForAll(owner: felt, operator: felt) -> (isApproved: felt) {
     }
+}
